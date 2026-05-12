@@ -1,4 +1,4 @@
-# 
+# premium Polymarket Trading Bot | trade-sniping + trailing-stops offers the most advanced Polymarket trading-bot, with trade-sniping and trailing-stops. Ideal for professional
 
 
 
